@@ -1,12 +1,14 @@
 {"libros":[
   {
-		"libro_img": "dfg",
+		"id":"1",
+	  	"libro_img": "dfg",
 		"libro_titulo": "As I Lay Dying",
 		"libro_autor": "Willian Faulker",
 		"libro_categoria": "Gótico sureño",
 		"libro_url": "dfg"
   },
 	{
+		"id":"2",
 		"libro_img": "dfg2",
 		"libro_titulo": "Búsqueda eficaz de información en la WEB",
 		"libro_autor": "Francisco Gómez",
