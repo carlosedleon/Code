@@ -1,4 +1,4 @@
-[
+{"libros":[
   {
 		"libro_img": "  <img src=\"/ferfranca/sites/default/files/styles/thumbnail/public/2018-06/as%20i%20lay%20dying.jpg?itok=hhUmO1iA\" width=\"70\" height=\"100\" alt=\"img\" typeof=\"foaf:Image\" class=\"image-style-thumbnail\" />\n\n\n",
 		"libro_titulo": "As I Lay Dying",
@@ -13,4 +13,4 @@
 		"libro_categoria": "Ficción especulativa, Literatura infantil, Humor negro",
 		"libro_url": "<a href=\"/ferfranca/product/5\" hreflang=\"en\">view</a>"
 	}
-]
+]}
