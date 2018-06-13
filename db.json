@@ -4,7 +4,7 @@
 	  	"libro_img": "dfg",
 		"libro_titulo": "As I Lay Dying",
 		"libro_autor": "Willian Faulker",
-		"libro_categoria": "Gótico sureño",
+		"libro_categoria": "Gotico",
 		"libro_url": "dfg"
   },
 	{
@@ -13,6 +13,14 @@
 		"libro_titulo": "Búsqueda eficaz de información en la WEB",
 		"libro_autor": "Francisco Gómez",
 		"libro_categoria": "Ficción especulativa, Literatura infantil, Humor negro",
+		"libro_url": "dfg"
+	},
+	{
+		"id":"3",
+		"libro_img": "dfg2",
+		"libro_titulo": "Don Quijote de la Mancha",
+		"libro_autor": "Juan de Castañeda",
+		"libro_categoria": "Gotico",
 		"libro_url": "dfg"
 	}
 ]}
